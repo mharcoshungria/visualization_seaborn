@@ -38,7 +38,7 @@ O conjunto de dados que iremos utilizar é a base de dados de alguns pokemons.
 
 #### Descrição do dados
 
-No arquivo [pokemon.csv](pokemon.csv), você encontrará as seguintes colunas:
+No arquivo [pokemon.csv](https://github.com/mharcoshungria/visualization_seaborn/blob/main/pokemon.csv), você encontrará as seguintes colunas:
 - Name: Nome em inglês do pokemon
 - Type 1: Tipo primário do pokemon
 - Type 2: Tipo secundário do pokemon
