@@ -1,7 +1,8 @@
 <img src="https://i.imgur.com/YX6UATs.png"  width="160">
 
+# Gerando Resultados com o Seaborn
 
-# Projeto - Gerando resultados com o Seaborn
+Este notebook é parte das tarefas da Formação Intensiva de Data Science da [Awari](https://awari.com.br/). 
 
 ##  Considerações iniciais
 
